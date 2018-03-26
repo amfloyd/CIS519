@@ -1,0 +1,1 @@
+Just running the python file (hw2.py) will run all the classifiers with all the different sample sizes.
