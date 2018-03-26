@@ -16,4 +16,3 @@ class Dataset(Dataset):
         self.len = X.shape[0]
         self.x_data = torch.from_numpy(X).unsqueeze(1).float()
         self.y_data = torch.from_numpy(y).unsqueeze(1).float()
-
